@@ -13,7 +13,7 @@ The goal of this project is to build a predictive model that can accurately clas
 - NumPy for numerical computations
 - Matplotlib & Seaborn for data visualization
 
-- 
+ 
 **🚀 Project Workflow**
 - Data Loading – Import the Iris dataset from scikit-learn.
 - Exploratory Data Analysis (EDA) – Visualize feature distributions and relationships.
@@ -22,12 +22,15 @@ The goal of this project is to build a predictive model that can accurately clas
 - Model Evaluation – Compare accuracy scores and confusion matrices.
 - Prediction – Classify new flower samples based on trained models.
 
-- 
+- **LIVE DEMO**
+- https://gdxvk9zg8dzp6ztyawhccg.streamlit.app/
+
+
 **📊 Results**
 - Achieved high accuracy across multiple models, with Support Vector Machine (SVM) performing best.
 - Visualizations highlight clear separability between species based on petal dimensions.
 
-- 
+
 **🏆 Key Learnings**
 - Importance of feature selection in classification tasks.
 - Comparison of different machine learning algorithms on the same dataset.
